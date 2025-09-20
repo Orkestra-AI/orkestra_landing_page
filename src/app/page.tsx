@@ -33,7 +33,7 @@ export default function Home() {
       >
         <div className="max-w-7xl mx-auto">
           <h2 className="text-4xl font-bold text-center text-slate-900 dark:text-white mb-16">
-            Everything you need. Nothing you don't.
+            Everything you need. Nothing you don&apos;t.
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             <FeatureCard
