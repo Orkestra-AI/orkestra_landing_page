@@ -126,7 +126,9 @@ export default function Home() {
           <p>&copy; 2025 Orkestra. Built for AI innovators.</p>
           <div className="flex gap-6">
             <a
-              href="#"
+              href="https://docs.orkestration.com"
+              target="_blank"
+              rel="noopener noreferrer"
               className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors"
             >
               Docs
