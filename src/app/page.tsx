@@ -13,7 +13,9 @@ export default function Home() {
         <div className="flex gap-4 flex-col sm:flex-row">
           <a
             className="bg-slate-900 hover:bg-slate-800 text-white font-semibold py-3 px-8 rounded-lg transition-transform transform hover:scale-105"
-            href="#get-started"
+            href="https://docs.orkestration.com"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Get Started with SDK
           </a>
@@ -114,7 +116,9 @@ export default function Home() {
         </p>
         <a
           className="bg-white text-slate-900 hover:bg-slate-200 font-semibold py-3 px-8 rounded-lg transition-transform transform hover:scale-105"
-          href="#"
+          href="https://docs.orkestration.com"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Start with the SDK
         </a>
